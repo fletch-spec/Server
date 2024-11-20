@@ -19,6 +19,7 @@ A collaborative space for innovation and scalable growth.
 automate code representation communication formats that discover abilities to create something beyond understanding of self.
 stream my consciousness online
 document the ego and how it affects our awareness
+reduce unnecessary quantization
 
 # Discord
 https://discord.gg/ujBRUyAYDt
