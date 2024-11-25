@@ -24,3 +24,6 @@ reduce unnecessary quantization
 # Discord
 https://discord.gg/ujBRUyAYDt
 https://discord.gg/ujBRUyAYDt
+
+# GPT
+https://chatgpt.com/g/g-6743d1255cb8819186fd82455b6bca32-mindful-expression-framework-guide
